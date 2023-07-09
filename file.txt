@@ -1,1 +1,3 @@
 Hello i am learning GIT
+
+Now, i'm moving the head to a new child from the main parent 
