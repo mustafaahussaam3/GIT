@@ -3,3 +3,5 @@ Hello i am learning GIT
 Now, i'm moving the head to a new child from the main parent 
 
 Then, i trying to use the branching technique that mostly used at company 
+
+We will try to use the Divergent History and solve the conflict 
