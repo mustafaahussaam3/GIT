@@ -12,3 +12,5 @@ We will try to use the Divergent History and solve the conflict
 
 
 
+   *Editing in the merge-conflict branch 
+
