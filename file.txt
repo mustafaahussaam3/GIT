@@ -6,10 +6,14 @@ Then, i trying to use the branching technique that mostly used at companies
 
 We will try to use the Divergent History and solve the conflict 
 
+
   ** I am at master now editing in it company ==> companies 
   ** you now that merge-conflict branch has edit to 
   ** i will try now to merge the branch with the master and solve the conflict
 
+
+
+   *Editing in the merge-conflict branch 
 
 
    *Editing in the merge-conflict branch 
